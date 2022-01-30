@@ -8,11 +8,11 @@ from email.mime.image import MIMEImage
 def sendMessage(receiver, title = 'python自动发送验证短信',file = None):
 
     # 服务器地址
-    smtpserver = 'smtp.163.com'
+    smtpserver = 'smtp.qq.com'
     # 发送账号
-    user = '17742566640@163.com'
+    user = 'root@dakaliu.com'
     # 发送密码
-    password = 'RLVCOYDEHNRIRRIE'
+    password = 'pebxlytyqowjbiba'
 
     # 邮件标题
     subject = title
