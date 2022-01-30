@@ -54,4 +54,4 @@ def sendMessage(receiver, title = 'python自动发送验证短信',file = None):
     smtp.quit()
 
 if __name__ =="__main__":
-    sendMessage(file=None, receiver='2892211452@qq.com')
+    sendMessage(file=None, receiver='root@dakaliu.com')
